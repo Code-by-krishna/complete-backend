@@ -1,0 +1,12 @@
+{
+  "name": "code-aur-krishna",
+  "version": "1.0.0",
+  "description": "a backend project on coding with krishna channel",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Amit kumar",
+  "license": "ISC"
+}
